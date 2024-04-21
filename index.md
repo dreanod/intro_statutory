@@ -57,8 +57,8 @@ Department of Insurance: [https://interactive.web.insurance.ca.gov/sas/](https:/
 7. Five-Year Historical Data p.17-18
 8. Exhibit of Premiums and Losses (by State) p.19
 9. Schedules
-    1. Schedule F p.20
-        1. Part 1 -- Reinsurance Assumed p.20
+    1. Schedule F p.20-29
+        1. [Part 1 -- Reinsurance Assumed p.20](./reinsurance-assumed.md)
         2. Part 2 -- Premium Portfolio Reinsurance Effected of (Cancelled) during Year p.21
         3. Part 3 -- Reinsurance Ceded p.22-26
         4. Part 4 -- Issuing or Confirming Banks for letters of credit p.27
