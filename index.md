@@ -17,12 +17,13 @@ company's operations, including its assets, liabilities, income, and expenses.
 
 The best way to understand the SAS is to look at examples from real insurance
 companies. You can find these examples on the website of the California
-Department of Insurance: [https://interactive.web.insurance.ca.gov/sas/](https://interactive.web.insurance.ca.gov/apex_extprd/f?p=144:6:17550497214296::NO:RP,6:P6_COMPANY_ID,P6_NAIC:6740,11150).
+Department of Insurance:
+[https://interactive.web.insurance.ca.gov/sas/](https://interactive.web.insurance.ca.gov/apex_extprd/f?p=144:6:17550497214296::NO:RP,6:P6_COMPANY_ID,P6_NAIC:6740,11150).
 
 # Overview
 
 
-1. [Jurat (p.1)](./jurat.md)
+1. [Jurat (p.1)](## "Basic information about the reporting entity")
 2. Financial Statements
     1. [Balance Sheet (p.2)](./balance-sheet.md)
         1. [Assets (p.2)](./assets.md)
